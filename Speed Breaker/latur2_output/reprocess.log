@@ -1,0 +1,143 @@
+Loading best (3).pt
+Classes: {0: 'Heavy-Vehicle', 1: 'Light-Vehicle', 2: 'Pedestrian', 3: 'Crack', 4: 'Crack-Severe', 5: 'Pothole', 6: 'Speed-Bump'}
+Drive folder speed bump processed canAddChildren=True
+Extracting GPS for GX010624.MP4
+Starting GX010624.MP4 (812s)
+  GX010624.MP4: through 90s, frames 270, speed-bump groups 0
+  GX010624.MP4: through 180s, frames 540, speed-bump groups 0
+  GX010624.MP4: through 270s, frames 810, speed-bump groups 0
+  GX010624.MP4: through 360s, frames 1080, speed-bump groups 2
+  GX010624.MP4: through 450s, frames 1350, speed-bump groups 2
+  GX010624.MP4: through 540s, frames 1620, speed-bump groups 2
+  GX010624.MP4: through 630s, frames 1890, speed-bump groups 2
+  GX010624.MP4: through 720s, frames 2160, speed-bump groups 2
+  GX010624.MP4: through 810s, frames 2430, speed-bump groups 2
+  GX010624.MP4: through 812s, frames 2437, speed-bump groups 2
+  GX010624.MP4: decoded 2437 frames, GPS samples 8122, raw groups 2
+Finished GX010624.MP4: 2 speed bumps saved
+Starting GX010626.MP4 (447s)
+  GX010626.MP4: through 90s, frames 270, speed-bump groups 2
+  GX010626.MP4: through 180s, frames 540, speed-bump groups 3
+  GX010626.MP4: through 270s, frames 810, speed-bump groups 3
+  GX010626.MP4: through 360s, frames 1080, speed-bump groups 3
+  GX010626.MP4: through 447s, frames 1340, speed-bump groups 3
+  GX010626.MP4: decoded 1340 frames, GPS samples 4462, raw groups 3
+Finished GX010626.MP4: 3 speed bumps saved
+Extracting GPS for GX010625.MP4
+Starting GX010625.MP4 (1033s)
+  GX010625.MP4: through 90s, frames 270, speed-bump groups 0
+  GX010625.MP4: through 180s, frames 540, speed-bump groups 0
+  GX010625.MP4: through 270s, frames 810, speed-bump groups 0
+  GX010625.MP4: through 360s, frames 1080, speed-bump groups 1
+  GX010625.MP4: through 450s, frames 1350, speed-bump groups 4
+  GX010625.MP4: through 540s, frames 1620, speed-bump groups 4
+  GX010625.MP4: through 630s, frames 1890, speed-bump groups 4
+  GX010625.MP4: through 720s, frames 2160, speed-bump groups 4
+  GX010625.MP4: through 810s, frames 2430, speed-bump groups 8
+  GX010625.MP4: through 900s, frames 2700, speed-bump groups 9
+  GX010625.MP4: through 990s, frames 2970, speed-bump groups 12
+  GX010625.MP4: through 1033s, frames 3100, speed-bump groups 14
+  GX010625.MP4: decoded 3100 frames, GPS samples 10333, raw groups 14
+Finished GX010625.MP4: 13 speed bumps saved
+Starting GX010627.MP4 (611s)
+  GX010627.MP4: through 90s, frames 270, speed-bump groups 4
+  GX010627.MP4: through 180s, frames 540, speed-bump groups 6
+  GX010627.MP4: through 270s, frames 810, speed-bump groups 6
+  GX010627.MP4: through 360s, frames 1080, speed-bump groups 6
+  GX010627.MP4: through 450s, frames 1350, speed-bump groups 6
+  GX010627.MP4: through 540s, frames 1620, speed-bump groups 6
+  GX010627.MP4: through 611s, frames 1833, speed-bump groups 6
+  GX010627.MP4: decoded 1833 frames, GPS samples 6112, raw groups 6
+Finished GX010627.MP4: 6 speed bumps saved
+Starting GX010629.MP4 (758s)
+  GX010629.MP4: through 90s, frames 270, speed-bump groups 2
+  GX010629.MP4: through 180s, frames 540, speed-bump groups 2
+  GX010629.MP4: through 270s, frames 810, speed-bump groups 2
+  GX010629.MP4: through 360s, frames 1080, speed-bump groups 2
+  GX010629.MP4: through 450s, frames 1350, speed-bump groups 2
+  GX010629.MP4: through 540s, frames 1620, speed-bump groups 2
+  GX010629.MP4: through 630s, frames 1890, speed-bump groups 2
+  GX010629.MP4: through 720s, frames 2160, speed-bump groups 2
+  GX010629.MP4: through 758s, frames 2275, speed-bump groups 3
+  GX010629.MP4: decoded 2275 frames, GPS samples 7584, raw groups 3
+Finished GX010629.MP4: 3 speed bumps saved
+Starting GX010630.MP4 (114s)
+  GX010630.MP4: through 90s, frames 270, speed-bump groups 2
+  GX010630.MP4: through 114s, frames 341, speed-bump groups 2
+  GX010630.MP4: decoded 341 frames, GPS samples 1137, raw groups 2
+Finished GX010630.MP4: 1 speed bumps saved
+Starting GX010631.MP4 (726s)
+  GX010631.MP4: through 90s, frames 270, speed-bump groups 0
+  GX010631.MP4: through 180s, frames 540, speed-bump groups 0
+  GX010631.MP4: through 270s, frames 810, speed-bump groups 0
+  GX010631.MP4: through 360s, frames 1080, speed-bump groups 0
+  GX010631.MP4: through 450s, frames 1350, speed-bump groups 0
+  GX010631.MP4: through 540s, frames 1620, speed-bump groups 0
+  GX010631.MP4: through 630s, frames 1890, speed-bump groups 0
+  GX010631.MP4: through 720s, frames 2160, speed-bump groups 0
+  GX010631.MP4: through 726s, frames 2179, speed-bump groups 0
+  GX010631.MP4: decoded 2179 frames, GPS samples 7263, raw groups 0
+Finished GX010631.MP4: 0 speed bumps saved
+Starting GX010632.MP4 (1791s)
+  GX010632.MP4: through 90s, frames 270, speed-bump groups 4
+  GX010632.MP4: through 180s, frames 540, speed-bump groups 5
+  GX010632.MP4: through 270s, frames 810, speed-bump groups 5
+  GX010632.MP4: through 360s, frames 1080, speed-bump groups 6
+  GX010632.MP4: through 450s, frames 1350, speed-bump groups 6
+  GX010632.MP4: through 540s, frames 1620, speed-bump groups 6
+  GX010632.MP4: through 630s, frames 1890, speed-bump groups 7
+  GX010632.MP4: through 720s, frames 2160, speed-bump groups 7
+  GX010632.MP4: through 810s, frames 2430, speed-bump groups 8
+  GX010632.MP4: through 900s, frames 2700, speed-bump groups 8
+  GX010632.MP4: through 990s, frames 2970, speed-bump groups 8
+  GX010632.MP4: through 1080s, frames 3240, speed-bump groups 9
+  GX010632.MP4: through 1170s, frames 3510, speed-bump groups 9
+  GX010632.MP4: through 1260s, frames 3780, speed-bump groups 9
+  GX010632.MP4: through 1350s, frames 4050, speed-bump groups 17
+  GX010632.MP4: through 1440s, frames 4320, speed-bump groups 17
+  GX010632.MP4: through 1530s, frames 4590, speed-bump groups 17
+  GX010632.MP4: through 1620s, frames 4860, speed-bump groups 18
+  GX010632.MP4: through 1710s, frames 5130, speed-bump groups 20
+  GX010632.MP4: through 1791s, frames 5373, speed-bump groups 20
+  GX010632.MP4: decoded 5373 frames, GPS samples 17911, raw groups 20
+Finished GX010632.MP4: 18 speed bumps saved
+Starting GX010633.MP4 (1044s)
+  GX010633.MP4: through 90s, frames 270, speed-bump groups 0
+  GX010633.MP4: through 180s, frames 540, speed-bump groups 2
+  GX010633.MP4: through 270s, frames 810, speed-bump groups 2
+  GX010633.MP4: through 360s, frames 1080, speed-bump groups 2
+  GX010633.MP4: through 450s, frames 1350, speed-bump groups 2
+  GX010633.MP4: through 540s, frames 1620, speed-bump groups 2
+  GX010633.MP4: through 630s, frames 1890, speed-bump groups 2
+  GX010633.MP4: through 720s, frames 2160, speed-bump groups 2
+  GX010633.MP4: through 810s, frames 2430, speed-bump groups 2
+  GX010633.MP4: through 900s, frames 2700, speed-bump groups 2
+  GX010633.MP4: through 990s, frames 2970, speed-bump groups 2
+  GX010633.MP4: through 1044s, frames 3131, speed-bump groups 3
+  GX010633.MP4: decoded 3131 frames, GPS samples 10437, raw groups 3
+Finished GX010633.MP4: 3 speed bumps saved
+Starting GX010634.MP4 (752s)
+  GX010634.MP4: through 90s, frames 270, speed-bump groups 0
+  GX010634.MP4: through 180s, frames 540, speed-bump groups 1
+  GX010634.MP4: through 270s, frames 810, speed-bump groups 3
+  GX010634.MP4: through 360s, frames 1080, speed-bump groups 3
+  GX010634.MP4: through 450s, frames 1350, speed-bump groups 4
+  GX010634.MP4: through 540s, frames 1620, speed-bump groups 7
+  GX010634.MP4: through 630s, frames 1890, speed-bump groups 8
+  GX010634.MP4: through 720s, frames 2160, speed-bump groups 11
+  GX010634.MP4: through 752s, frames 2256, speed-bump groups 13
+  GX010634.MP4: decoded 2256 frames, GPS samples 7519, raw groups 13
+Finished GX010634.MP4: 12 speed bumps saved
+Starting GX010671.MP4 (746s)
+  GX010671.MP4: through 90s, frames 270, speed-bump groups 3
+  GX010671.MP4: through 180s, frames 540, speed-bump groups 3
+  GX010671.MP4: through 270s, frames 810, speed-bump groups 3
+  GX010671.MP4: through 360s, frames 1080, speed-bump groups 3
+  GX010671.MP4: through 450s, frames 1350, speed-bump groups 3
+  GX010671.MP4: through 540s, frames 1620, speed-bump groups 3
+  GX010671.MP4: through 630s, frames 1890, speed-bump groups 3
+  GX010671.MP4: through 720s, frames 2160, speed-bump groups 3
+  GX010671.MP4: through 746s, frames 2239, speed-bump groups 3
+  GX010671.MP4: decoded 2239 frames, GPS samples 7456, raw groups 3
+Finished GX010671.MP4: 3 speed bumps saved
+CSV: /home/aiunika-5090/Downloads/Uday/latur2_output/speed_bumps.csv
